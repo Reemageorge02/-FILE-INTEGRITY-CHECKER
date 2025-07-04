@@ -16,13 +16,3 @@ Description:This project is a File Integrity Checker implemented in Python, desi
 The program is written using Python 3 and utilizes built-in libraries: hashlib for computing SHA-256 hashes, os for directory traversal and file operations, and json for saving and reading the hash data in a structured format. No external libraries are required, making it lightweight and easy to use. The script is interactive and runs through a simple command-line interface (CLI) with a menu-driven approach. It supports large files by reading them in chunks during hashing to prevent memory issues.
 
 For development and testing, the Python IDLE environment was used, ensuring compatibility with beginners and providing a straightforward setup. This project demonstrates how Python’s standard libraries can be combined to build a practical file-monitoring utility that is platform-independent and efficient. To use it, simply run the script in IDLE or terminal, choose the option to save hashes or check integrity, and follow the prompts. This tool showcases the power of Python for creating security-focused utilities without the need for complex frameworks or dependencies.
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
